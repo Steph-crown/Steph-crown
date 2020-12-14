@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=steph-crown&langs_count=7)]()
+
+
+![](https://visitor-badge.glitch.me/badge?page_id=steph-crown)
