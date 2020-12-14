@@ -16,27 +16,27 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi there, I'm [Anurag!](https://steph-portfolio.vercel.app) 👋
+### Hi there, I'm [Steph Crown!](https://steph-portfolio.vercel.app) 👋
 
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+
+<a href="https://twitter.com/stephcrown06">
+  <img align="left" alt="Steph Crown | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-<a href="https://twitter.com/anuraghazru">
-  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<a href="https://facebook.com/profile.php?id=100006437678823">
+  <img align="left" alt="Steph's facebook" width="21px" src="https://www.flaticon.com/svg/static/icons/svg/61/61045.svg" />
 </a>
-<a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+<a href="https://wa.me/2349090194796">
+  <img align="left" alt="Steph's facebook" width="21px" src="https://image.flaticon.com/icons/png/512/124/124034.png" />
 </a>
+
 
 <br />
 <br />
 
-Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India.
+Hi, I'm Steph Crown, a passionate self-taught frontEnd web developer from Nigeria.
 
-- 🔭 I’m currently working on [renderless-components](https://github.com/timelessco/renderless-components)
-- 🌱 I’m currently learning Typescript
-- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+
+- 💬 Ask me about anything [here](https://github.com/steph-crown/steph-crown/issues)
 
 **Languages and Tools:**  
 
@@ -59,7 +59,7 @@ Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India
 </a>
 
 <a href="https://github.com/steph-crown/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=steph-crown&repo=github-readme-stats&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=steph-crown&repo=new-portfolio&theme=material-palenight" />
 </a>    
 <a href="https://github.com/anuraghazra/steph-crown.github.io">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=steph-crown&repo=steph-crown.github.io&theme=material-palenight" />
