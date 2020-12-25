@@ -55,4 +55,4 @@ Hi, I'm Steph Crown, a passionate self-taught frontEnd web developer from Nigeri
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steph-crown&layout=compact&theme=radical" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=steph-crown&repo=new-portfolio&theme=gruvbox" />
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=steph-crown&repo=myResume-app&theme=tokyonight" />
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=steph-crown&repo=myResume-api&onedark" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=steph-crown&repo=myResume-api&theme=onedark" />
