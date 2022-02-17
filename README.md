@@ -60,7 +60,6 @@ Hi, I'm Steph Crown, a passionate self-taught frontEnd web developer from Nigeri
 
 # My latest blogs
 
-# Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
