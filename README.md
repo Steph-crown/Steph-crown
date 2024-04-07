@@ -11,4 +11,4 @@ I write articles, text-based courses, and build software applications.
 
 
 
-[![Anurag's GitHub stats](https://github-stats-card-nu.vercel.app/api?username=steph-crown&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-stats-card-nu.vercel.app/api?username=steph-crown&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
