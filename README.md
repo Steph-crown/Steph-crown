@@ -9,4 +9,4 @@ I write articles, text-based courses, and build software applications.
 
 ## View my portfolio at [stephcrown.com](https://stephcrown.com)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steph-crown)](https://github.com/anuraghazra/github-readme-stats)
