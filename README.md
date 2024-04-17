@@ -9,5 +9,5 @@ I write articles, text-based courses, and build software applications.
 
 
 <a href="https://github.com/steph-crown" style="display: block;">
-  <img align="center" src="https://github-stats-card-nu.vercel.app/api/top-langs?username=steph-crown&theme=dark&show_icons=true&layout=pie" />
+  <img align="center" src="https://github-stats-card-nu.vercel.app/api/top-langs?username=steph-crown&langs_count=20&theme=dark&show_icons=true&layout=pie" />
 </a>
