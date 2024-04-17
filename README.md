@@ -1,9 +1,6 @@
 ## Hey, It's Stephen.
 
-I am a **software engineer** with the keen instincts of _Sherlock Holmes_. I scrutinize the digital
-landscape with the precision of a detective 🕵🏻. I craft intuitive user interfaces and solve complex challenges, approaching each
-project as a captivating mystery to unravel. My mission is to create beautiful digital experiences that leave no enigma
-unsolved.
+I'm a software engineer with over 5 years of experience. I love building cool and useful digital products. I'm a problem-solver and enjoy finding clever and simple ways to make things work well for users. I can work on all parts of a software project, from the user interface to the inner workings. My goal is to create well-built systems that people love to use. I'm always learning new things, and I'm especially interested in machine learning, artificial intelligence, and the Internet of Things.
 
 I write articles, text-based courses, and build software applications.
 
