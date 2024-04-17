@@ -9,11 +9,7 @@ I write articles, text-based courses, and build software applications.
 
 ## View my portfolio at [stephcrown.com](https://stephcrown.com)
 
-<div>
-<a href="https://github.com/steph-crown">
-  <img height=300 width=500 align="center" src="https://github-stats-card-nu.vercel.app/api?username=steph-crown&theme=merko&show_icons=true"/>
-</a>
-</div>
+
 
 <a href="https://github.com/steph-crown" style="display: block;">
   <img align="center" src="https://github-stats-card-nu.vercel.app/api/top-langs?username=steph-crown&theme=dark&show_icons=true&layout=pie" />
